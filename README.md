@@ -4,8 +4,8 @@
 ### GenAI - 生成式AI
 - [ChatGPT 4o](https://chatgpt.com/)
 - [Gemini](https://gemini.google.com/)
-- [Copilot](https://copilot.microsoft.com/)
 - [Claude](https://claude.ai/)
+- [Copilot](https://copilot.microsoft.com/)
 
 ### 題目
 #### [prompt提示詞1](prompt1.md)
