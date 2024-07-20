@@ -3,7 +3,7 @@
 CIA TRIAD:Confidentiality, Integrity, and Availability
 你是專家,請用十頁簡報說明CIA TRIAD
 ```
-## 文字==>圖
+## 文字===>圖
 ## ChatGPT 4o
 ```
 頁1：標題頁
