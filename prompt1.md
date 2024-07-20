@@ -1,4 +1,9 @@
-# Chatgpt 4o
+### 提示詞:
+```
+CIA TRIAD:Confidentiality, Integrity, and Availability
+你是專家,請用十頁簡報說明CIA TRIAD
+```
+## Chatgpt 4o
 ```
 頁1：標題頁
 理解CIA三元組
