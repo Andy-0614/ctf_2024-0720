@@ -3,8 +3,8 @@
 
 ### GenAI - 生成式AI
 - [ChatGPT 4o](https://chatgpt.com/)
-- [Copilot](https://copilot.microsoft.com/)
 - [Gemini](https://gemini.google.com/)
+- [Copilot](https://copilot.microsoft.com/)
 - [Claude](https://claude.ai/)
 
 ### 題目
