@@ -5,7 +5,7 @@
 - [ChatGPT 4o](https://chatgpt.com/)
 - [Gemini](https://gemini.google.com/)
 - [Claude](https://claude.ai/)
-- [Copilot](https://copilot.microsoft.com/)
+- [Copilot](https://www.bing.com/chat)
 
 ### 題目
 #### [prompt提示詞1](prompt1.md) 文字===>文字
