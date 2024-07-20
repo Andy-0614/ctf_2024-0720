@@ -1,4 +1,5 @@
-##### ME:
+### ME:
+#### c
 ```c
 #include <stdio.h>
 
@@ -13,6 +14,7 @@ int main() {
     return 0;
 }
 ```
+#### cpp
 ```cpp 
 #include<bits/stdc++.h>
 using namespace std;
@@ -28,7 +30,8 @@ int main(){
     return 0;
 }
 ```
-##### AI:
+### AI:
+#### c
 ```c
 #include <stdio.h>
 
@@ -43,6 +46,7 @@ int main() {
     return 0;
 }
 ```
+#### cpp
 ```cpp
 #include <iostream>
 
