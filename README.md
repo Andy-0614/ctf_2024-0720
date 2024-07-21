@@ -24,6 +24,6 @@ CIA TRIAD:Confidentiality, Integrity, and Availability
 9x9 乘法表
 ```
 ## 20240721
-### python 基本解題
-### linux pwn-Tool
-### PPC
+#### python 基本解題
+#### linux pwn-Tool
+#### PPC
