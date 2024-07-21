@@ -1,6 +1,6 @@
-# 20240720
-## 0720 ~ 0721 東台灣高中職資安盛會
+# 0720 ~ 0721 東台灣高中職資安盛會
 
+## 20240720
 ### GenAI - 生成式AI
 - [ChatGPT 4o](https://chatgpt.com/)
 - [Gemini](https://gemini.google.com/)
@@ -23,3 +23,7 @@ CIA TRIAD:Confidentiality, Integrity, and Availability
 ```
 9x9 乘法表
 ```
+## 20240721
+### python 基本解題
+### linux pwn-Tool
+### PPC
