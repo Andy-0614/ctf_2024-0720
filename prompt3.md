@@ -7,7 +7,7 @@ int main() {
     int n=9,m=9;
     for(int i=1;i<=n;i++){
         for(int j=1;j<=m;j++){
-            printf("%dx%d=%d\t",i,j,i*j);
+            printf("%dx%d=%d  ",i,j,i*j);
         }
         printf("\n");
     }
